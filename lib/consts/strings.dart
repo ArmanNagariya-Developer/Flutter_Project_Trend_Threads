@@ -22,3 +22,7 @@ const TopCategories = "Top Categories";
 const TopSell = " Top Sell";
 const FeaturedCategories = "Featured Categories";
 const MenT_shirt = "Men’s T-shirt ";
+
+
+// profile string
+

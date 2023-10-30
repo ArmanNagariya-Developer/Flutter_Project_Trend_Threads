@@ -1,0 +1,71 @@
+{
+    "categories":[
+    {
+        "name":"Mens Jeans Pant",
+        "subcategory":[
+            "Low-rise pants",
+            "High-rise",
+            "Skinny Fit"
+        ]
+    },
+    {
+        "name":"Girls Harem",
+        "subcategory":[
+            "Silk Harem",
+            "Cotton Harem"
+        ]
+    },
+    {
+        "name":"Mens Shirt",
+        "subcategory":[
+            "Silk Shirt",
+            "Cotton Shirt",
+            "Office Shirt"
+        ]
+    },
+    {
+        "name":"Mens Night Pant",
+        "subcategory":[
+            "Silk Night Pant",
+            "Cotton Night Pant",
+            "4-Way Night Pant"
+        ]
+    },
+    {
+        "name":"Night Dress",
+        "subcategory":[
+            "Cotton Night Dress"
+        ]
+    },
+    {
+        "name":"Boys Children Wear",
+        "subcategory":[
+            "Pant",
+            "Shirt"
+        ]
+    },
+    {
+        "name":"Girls Children Wear",
+        "subcategory":[
+            "Pant",
+            "Shirt",
+            "Dresses"
+        ]
+    },
+    {
+        "name":"Boys Night Dress",
+        "subcategory":[
+            "Cotton Night Dress"
+        ]
+    },
+    {
+        "name":"Men's T-Shirt",
+        "subcategory":[
+            "Silk T-Shirt",
+            "Cotton T-Shirt",
+            "Office T-Shirt",
+            "4-Way T-Shirt"
+        ]
+    }
+]
+}
